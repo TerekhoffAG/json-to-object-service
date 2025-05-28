@@ -34,3 +34,4 @@ build/
 
 ### Spring boot local config ###
 application.yaml
+docker-compose.yaml
